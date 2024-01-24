@@ -1,0 +1,18 @@
+.. spelling::
+
+    z3
+
+.. index::
+  single: unsorted ; z3
+
+.. _pkg.z3:
+
+z3
+===
+
+-  `Official <https://github.com/Z3Prover/z3>`__
+
+.. literalinclude:: /../examples/z3/CMakeLists.txt
+  :language: cmake
+  :start-after: # DOCUMENTATION_START {
+  :end-before: # DOCUMENTATION_END }
